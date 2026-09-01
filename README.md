@@ -97,7 +97,7 @@ There's no way to *guarantee* a specific rating — real strength depends on
 your CPU, the opponent, and the time control, and would need to be
 measured in actual rated games to know for sure. What these settings
 maximize is search depth and quality within whatever time budget you give
-it.
+it, in my case I see it around 1500 elo bot.
 
 ---
 
