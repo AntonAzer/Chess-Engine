@@ -144,6 +144,6 @@ To go back to the handcrafted-only evaluator, just delete `chess_eval.pth`.
 - Python 3.9+
 - `python-chess`, `pygame`, `torch` (see `requirements.txt`)
 
-- ## Next Development
+  ## Next Development
 I want to try LilaZero style in training this type of models and compare the results, the only limitation to get unreachable results is the hardware limitations,but the idea of the model playing itself is the key to get 
 unhuman level of engines.
